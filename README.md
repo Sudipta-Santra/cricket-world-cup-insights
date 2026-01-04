@@ -1,4 +1,4 @@
-#  Cricket World Cup Insights – BI Dashboard
+#  [Cricket World Cup Insights – BI Dashboard](https://lookerstudio.google.com/reporting/ca332cff-1f83-41ff-90f1-61aafd26fa21)
 
 ##  Project Overview
 This project is a **Business Intelligence (BI) and Data Visualization dashboard** built using **Google Looker Studio**.  
